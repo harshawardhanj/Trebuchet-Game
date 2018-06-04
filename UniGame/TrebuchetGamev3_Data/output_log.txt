@@ -1,0 +1,476 @@
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 23.21.13.9101]
+    Renderer: NVIDIA GeForce GTX 660
+    Vendor:   NVIDIA
+    VRAM:     1998 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Non platform assembly: data-04D7C9E8 (this message is harmless)
+Non platform assembly: data-04DE71F0 (this message is harmless)
+Non platform assembly: data-0D1B0048 (this message is harmless)
+Non platform assembly: data-04DFC270 (this message is harmless)
+Non platform assembly: data-04E02878 (this message is harmless)
+WheelCollider requires an attached Rigidbody to function.
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/Dynamics/WheelCollider.cpp Line: 167)
+
+WheelCollider requires an attached Rigidbody to function.
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/Dynamics/WheelCollider.cpp Line: 167)
+
+WheelCollider requires an attached Rigidbody to function.
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/Dynamics/WheelCollider.cpp Line: 167)
+
+WheelCollider requires an attached Rigidbody to function.
+ 
+(Filename: C:/BuildAgent/work/842f9557127e852/Runtime/Dynamics/WheelCollider.cpp Line: 167)
+
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 719.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+Platform assembly: D:\My Documents\Uni Work\3D Modelling\UniGame\TrebuchetGamev3_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: D:\My Documents\Uni Work\3D Modelling\UniGame\TrebuchetGamev3_Data\Managed\Boo.Lang.dll (this message is harmless)
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at UnityScript.Lang.UnityRuntimeServices.GetProperty (System.Object target, System.String name) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

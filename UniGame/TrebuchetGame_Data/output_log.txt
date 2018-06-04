@@ -1,0 +1,47 @@
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 23.21.13.9101]
+    Renderer: NVIDIA GeForce GTX 660
+    Vendor:   NVIDIA
+    VRAM:     1998 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Non platform assembly: data-04D8CA78 (this message is harmless)
+Non platform assembly: data-04DF7280 (this message is harmless)
+Non platform assembly: data-04DFA900 (this message is harmless)
+Non platform assembly: data-04DFED80 (this message is harmless)
+Non platform assembly: data-04E05BD8 (this message is harmless)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 552.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+Platform assembly: D:\My Documents\Uni Work\3D Modelling\UniGame\TrebuchetGame_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: D:\My Documents\Uni Work\3D Modelling\UniGame\TrebuchetGame_Data\Managed\Boo.Lang.dll (this message is harmless)
+MissingMethodException: Method not found: 'UnityEngine.Transform.Vector3'.
+  at Boo.Lang.Runtime.DynamicDispatching.MethodDispatcherFactory.ProduceExtensionDispatcher () [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.DynamicDispatching.MethodDispatcherFactory.Create () [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.DoCreateMethodDispatcher (System.Object target, System.Type targetType, System.String name, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.CreateMethodDispatcher (System.Object target, System.String name, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices+<Invoke>c__AnonStorey12.<>m__6 () [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.DynamicDispatching.DispatcherCache.Get (Boo.Lang.Runtime.DynamicDispatching.DispatcherKey key, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.Invoke (System.Object target, System.String name, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+MissingMethodException: Method not found: 'UnityEngine.Transform.Vector3'.
+  at Boo.Lang.Runtime.DynamicDispatching.MethodDispatcherFactory.ProduceExtensionDispatcher () [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.DynamicDispatching.MethodDispatcherFactory.Create () [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.DoCreateMethodDispatcher (System.Object target, System.Type targetType, System.String name, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.CreateMethodDispatcher (System.Object target, System.String name, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices+<Invoke>c__AnonStorey12.<>m__6 () [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.DynamicDispatching.DispatcherCache.Get (Boo.Lang.Runtime.DynamicDispatching.DispatcherKey key, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.String cacheKeyName, System.Type[] cacheKeyTypes, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.GetDispatcher (System.Object target, System.Object[] args, System.String cacheKeyName, Boo.Lang.Runtime.DynamicDispatching.DispatcherFactory factory) [0x00000] in <filename unknown>:0 
+  at Boo.Lang.Runtime.RuntimeServices.Invoke (System.Object target, System.String name, System.Object[] args) [0x00000] in <filename unknown>:0 
+  at Shoot.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

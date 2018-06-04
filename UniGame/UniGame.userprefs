@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Projectile.js">
+    <Files>
+      <File FileName="Assets\Shootnotworking.js" Line="45" Column="18" />
+      <File FileName="Assets\ColorChange.js" Line="6" Column="34" />
+      <File FileName="Assets\Title.js" Line="34" Column="3" />
+      <File FileName="Assets\Projectile.js" Line="1" Column="1" />
+      <File FileName="Assets\Shoot.js" Line="34" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
